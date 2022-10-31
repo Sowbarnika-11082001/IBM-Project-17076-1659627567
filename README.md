@@ -1,8 +1,14 @@
 # IBM-Project-17076-1659627567
-Analytics for Hospitals' Health-Care Data
-Analytics For Hospitals' Health-Care Data Category: Data Analytics
+                                                      Analytics for Hospitals' Health-Care Data
 
-Skills Required: Exploratory Data Analysis,IBM Cloud
+
+
+# TEAM MEMBERS 
+    737819CSR197 - SUBALAKSHMI G
+    737819CSR198 - SHUBIKSHA S
+    737819CSR201 - SUJA S
+    737819CSR207 - THAARANI S
+
 
 Project Description:
 
